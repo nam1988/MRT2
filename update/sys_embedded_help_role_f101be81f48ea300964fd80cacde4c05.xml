@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_app3core.user" name="sn_app3core.user">3901be81f48ea300964fd80cacde4c03</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2018-11-26 20:09:06</sys_created_on>
+        <sys_id>f101be81f48ea300964fd80cacde4c05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3901be81f48ea300964fd80cacde4c03</sys_name>
+        <sys_package display_value="app2core" source="sn_app2core">09d0fa81f48ea300964fd80cacde4cb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app2core">09d0fa81f48ea300964fd80cacde4cb9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f101be81f48ea300964fd80cacde4c05</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2018-11-26 20:09:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

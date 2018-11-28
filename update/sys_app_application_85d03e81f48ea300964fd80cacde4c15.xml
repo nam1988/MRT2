@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>app2core</name>
+        <order/>
+        <roles>sn_app2core.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2018-11-26 20:08:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>85d03e81f48ea300964fd80cacde4c15</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>app2core</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="app2core" source="sn_app2core">09d0fa81f48ea300964fd80cacde4cb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app2core">09d0fa81f48ea300964fd80cacde4cb9</sys_scope>
+        <sys_update_name>sys_app_application_85d03e81f48ea300964fd80cacde4c15</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2018-11-26 20:08:13</sys_updated_on>
+        <title>app2core</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

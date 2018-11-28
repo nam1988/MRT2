@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>sn_app2core_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2018-11-26 20:08:14</sys_created_on>
+        <sys_id>11d03e81f48ea300964fd80cacde4c4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_app2core_table</sys_name>
+        <sys_package display_value="app2core" source="sn_app2core">09d0fa81f48ea300964fd80cacde4cb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app2core">09d0fa81f48ea300964fd80cacde4cb9</sys_scope>
+        <sys_update_name>ua_table_licensing_config_11d03e81f48ea300964fd80cacde4c4a</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2018-11-26 20:08:14</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

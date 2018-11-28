@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="app2core Table" max_length="40" name="sn_app2core_table" type="collection"/>
+</database>
